@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Full Stack Software Engineer | Expertise in React, AWS, TypeScript & Node.js
+
+- 🌟 Spearheaded end-to-end software development lifecycles across diverse sectors: eCommerce, Education, Fashion, & Charity.
+- 🔍 Passionate about creating efficient, scalable, and user-centric solutions.
+- 🛠 Proficient in SQL, Docker, Kubernetes, Redis, Firebase, GCP, and more.
+- 💡 Led innovative projects: optimizing order systems, developing content-rich onboarding experiences, and launching government-supported mobile applications.
+- 🤝 Strong believer in collaboration and continuous learning.
+- 📖 University of Saskatchewan, MS in Computer Science.
+- 🚀 Excited about leveraging technology to solve real-world challenges!
