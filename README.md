@@ -1,26 +1,94 @@
-### Hi there 👋
+# 🚀 Hammid Olagunju  
+### Senior Cloud & Distributed Systems Engineer
 
-<!--
-**princeede/princeede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 London, United Kingdom  
+☁️ Cloud-Native • Kubernetes • Terraform • Workflow Orchestration • Automation  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
 
-Full Stack Software Engineer | Expertise in React, AWS, TypeScript & Node.js
+I’m a Senior Cloud & DevOps Engineer specialising in distributed systems, workflow orchestration, and automation-first platform engineering.
 
-- 🌟 Spearheaded end-to-end software development lifecycles across diverse sectors: eCommerce, Education, Fashion, & Charity.
-- 🔍 Passionate about creating efficient, scalable, and user-centric solutions.
-- 🛠 Proficient in SQL, Docker, Kubernetes, Redis, Firebase, GCP, and more.
-- 💡 Led innovative projects: optimizing order systems, developing content-rich onboarding experiences, and launching government-supported mobile applications.
-- 🤝 Strong believer in collaboration and continuous learning.
-- 📖 University of Saskatchewan, MS in Computer Science.
-- 🚀 Excited about leveraging technology to solve real-world challenges!
+I design and operate production-grade cloud infrastructure, build scalable backend systems in Node.js/TypeScript, and automate everything that can be automated.
+
+I care deeply about:
+
+- Reliability engineering
+- Developer experience
+- Infrastructure-as-Code
+- Workflow orchestration
+- Event-driven systems
+- Multi-tenant SaaS architecture
+- Observability & production excellence
+
+CKAD certified. Hands-on. Production-focused.
+
+---
+
+## 🛠️ Tech Stack
+
+### Cloud & Infrastructure
+- Kubernetes
+- Docker
+- Terraform
+- Helm
+- Istio
+- AWS
+- Azure
+- GCP
+- DigitalOcean
+
+### Backend & APIs
+- Typescript / Node.js
+- Pythong / FastAPI
+- Go
+- GraphQL
+
+### Workflow & Automation
+- Temporal
+- Event-driven architecture
+- Distributed retry & idempotency patterns
+- GitHub Actions
+- GitLab CI/CD
+
+### Observability
+- OpenTelemetry
+- Prometheus
+- Grafana
+- Structured logging
+- Dynatrace
+
+---
+
+## 🧠 Current Focus
+
+- Advanced Kubernetes scaling strategies
+- Workflow engines & automation platforms
+- Self-hosted infrastructure tooling
+- Distributed tracing and observability patterns
+- Platform engineering best practices
+- High-availability multi-region architectures
+
+---
+
+## 📈 Engineering Philosophy
+
+- Automate before optimising  
+- Observability is not optional  
+- Idempotency prevents operational pain  
+- Infrastructure must be reproducible  
+- Deployment should be boring  
+- Failure modes must be designed intentionally  
+
+---
+
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/abdul-hammid-olagunju  
+- Portfolio: https://aholagunju.com  
+  
+
+---
+
+⭐ If you're interested in cloud-native systems, distributed workflows, or platform engineering — feel free to connect or collaborate.
