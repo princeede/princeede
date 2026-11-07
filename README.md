@@ -8,14 +8,14 @@ Tech lead, responsible for the team's technical direction and delivery. I build 
 
 ## What I'm working on
 
-- **Customer retention platform, Virgin Media O2.** Backend for an app that helps agents resolve customer issues and recommend offers, plus an MCP server so business stakeholders can query sales and enquiry figures through AI assistants instead of a dashboard.
+- **Telecoms customer retention platform.** Backend for an app that helps agents resolve customer issues and recommend offers, plus an MCP server so business stakeholders can query sales and enquiry figures through AI assistants instead of a dashboard.
 - **Large-scale data ingestion.** ETL pipelines with batched processing, configurable concurrency, retries and progress tracking, and a pricing system that resolves overlapping price periods across sales channels for millions of records a day.
 
 ## AI work I've shipped
 
 - **Clara, SameDayCustom's AI agent.** An agentic customer-support and sales system in production, integrating LLMs with Zendesk workflows: specialised sales, service, design and account-management behaviours, conversation state, classification, fact extraction and async job processing.
 - **RegNav, Element.** Led the design of an AI-powered regulatory tool for medical device manufacturers. Its AI workflow cut time-to-approval from months to days, with human experts verifying the recommendations. Built on Kubernetes, Istio and Temporal.
-- **MCP servers.** One for Virgin Media O2 stakeholders, and one that lets the SameDayCustom operations team query the business database through AI assistants against a read-only replica.
+- **MCP servers.** One for business stakeholders on the retention platform, and one that lets the SameDayCustom operations team query the business database through AI assistants against a read-only replica.
 - **[ewi-lm](https://github.com/princeede/ewi-lm).** Open-source experiments in Yoruba Ewì generation with open LLMs, LoRA fine-tuning and human evaluation.
 
 ---
