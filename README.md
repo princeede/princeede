@@ -2,7 +2,7 @@
 
 📍 London, United Kingdom
 
-Tech lead at Virgin Media O2 (via Nearform), responsible for the team's technical direction and delivery. I build full-stack TypeScript products, run them on Kubernetes, and ship LLM applications to production. Before Nearform I was engineering lead and founding engineer at SameDayCustom.
+Tech lead, responsible for the team's technical direction and delivery. I build full-stack TypeScript products, run them on Kubernetes, and ship LLM applications to production. Previously engineering lead and founding engineer at SameDayCustom.
 
 ---
 
