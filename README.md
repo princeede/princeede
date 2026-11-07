@@ -2,7 +2,7 @@
 
 📍 London, United Kingdom
 
-Tech lead, responsible for the team's technical direction and delivery. I build full-stack TypeScript products, run them on Kubernetes, and ship LLM applications to production. Previously engineering lead and founding engineer at SameDayCustom.
+Tech lead, responsible for the team's technical direction and delivery. I build full-stack TypeScript products, run them on Kubernetes, and ship LLM applications to production. Previously an engineering lead and a founding engineer.
 
 ---
 
@@ -13,9 +13,9 @@ Tech lead, responsible for the team's technical direction and delivery. I build 
 
 ## AI work I've shipped
 
-- **Clara, SameDayCustom's AI agent.** An agentic customer-support and sales system in production, integrating LLMs with Zendesk workflows: specialised sales, service, design and account-management behaviours, conversation state, classification, fact extraction and async job processing.
-- **RegNav, Element.** Led the design of an AI-powered regulatory tool for medical device manufacturers. Its AI workflow cut time-to-approval from months to days, with human experts verifying the recommendations. Built on Kubernetes, Istio and Temporal.
-- **MCP servers.** One for business stakeholders on the retention platform, and one that lets the SameDayCustom operations team query the business database through AI assistants against a read-only replica.
+- **Agentic support and sales system.** In production, integrating LLMs with Zendesk workflows: specialised sales, service, design and account-management behaviours, conversation state, classification, fact extraction and async job processing.
+- **AI-powered regulatory tool.** Led the design of a tool for medical device manufacturers. Its AI workflow cut time-to-approval from months to days, with human experts verifying the recommendations. Built on Kubernetes, Istio and Temporal.
+- **MCP servers.** One for business stakeholders on the retention platform, and one that lets an operations team query their business database through AI assistants against a read-only replica.
 - **[ewi-lm](https://github.com/princeede/ewi-lm).** Open-source experiments in Yoruba Ewì generation with open LLMs, LoRA fine-tuning and human evaluation.
 
 ---
