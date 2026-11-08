@@ -2,7 +2,7 @@
 
 📍 London, United Kingdom
 
-Tech lead, responsible for the team's technical direction and delivery. I build full-stack TypeScript products, run them on Kubernetes, and ship LLM applications to production. Previously an engineering lead and a founding engineer.
+Tech lead, responsible for the team's technical direction and delivery. I build full-stack products, run them in the cloud, and ship LLM applications to production. Previously an engineering lead and a founding engineer.
 
 ---
 
